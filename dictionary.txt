@@ -1,0 +1,11 @@
+linux
+python
+password
+12345
+secret
+welcome
+admin
+other
+login
+coffee
+helloworld
