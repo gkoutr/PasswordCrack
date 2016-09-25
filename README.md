@@ -9,10 +9,10 @@ COSC440 Assignment2
 For Windows:
 5. open cmd
 6. go to /users/YOURUSERNAME/Desktop/PasswordCrack-master/PasswordCrack-master
-7.with python installed, run the command python passwordCrack.py
+7.with python installed, run the command python assignment2.py
 
 For Linux:
 5.open terminal
 6.go to home/YourUserName/Desktop/PasswordCrack-master/PasswordCrack-master
-7. run the command python passwordCrack.py
+7. run the command python assignment2.py
 
